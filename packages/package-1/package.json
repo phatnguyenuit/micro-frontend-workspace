@@ -1,0 +1,22 @@
+{
+  "name": "package-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phatnguyenuit/nodejs-workspace-template.git"
+  },
+  "author": "PhatNguyen <phatnt.uit@gmail.com> (https://phatnguyenuit.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phatnguyenuit/nodejs-workspace-template/issues"
+  },
+  "homepage": "https://github.com/phatnguyenuit/nodejs-workspace-template#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
