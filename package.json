@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-workspace-template",
+  "name": "micro-frontend-workspace",
   "version": "1.0.0",
-  "description": "NodeJS workspace template",
+  "description": "This is for micro-frontend approach",
   "private": true,
   "scripts": {
     "commit": "git-cz",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phatnguyenuit/nodejs-workspace-template.git"
+    "url": "git+https://github.com/phatnguyenuit/micro-frontend-workspace.git"
   },
   "keywords": [],
   "author": "PhatNguyen <phatnt.uit@gmail.com> (https://phatnguyenuit.github.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phatnguyenuit/nodejs-workspace-template/issues"
+    "url": "https://github.com/phatnguyenuit/micro-frontend-workspace/issues"
   },
-  "homepage": "https://github.com/phatnguyenuit/nodejs-workspace-template#readme",
+  "homepage": "https://github.com/phatnguyenuit/micro-frontend-workspace#readme",
   "workspaces": [
     "packages/*"
   ],
