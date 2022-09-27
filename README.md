@@ -1,5 +1,6 @@
-# nodejs-workspace-template
-NodeJS workspace template
+# micro-frontend-workspace
+
+This is for micro-frontend approach
 
 
 ## Available scripts
